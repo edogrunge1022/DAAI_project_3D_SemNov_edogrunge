@@ -1,5 +1,7 @@
 # Exploring the Depths of 3D Semantic Novelty Detection
 
+**Project autors**: Edoardo Pagliano, Alberto Franzone, Alberto Buccellato
+
 ## Abstract 
 _In the last years with the rise of autonomous driving in passenger vehicles and the need for fine processing of the 
 data coming from the perception sensors, semantic novelty detection (out of distribution semantic classes) has become a really 
