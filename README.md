@@ -15,7 +15,7 @@ on autonomous systems, such as passenger vehicles, industrial robots, etc._
 
 The repository contains almost the same files present in the original repository https://github.com/antoalli/SemNov_AML_DAAI_23-24 but some files have been added or 
 modified such as **/utils/ood_utils.py** and **/classifiers/trainer_cla_md**.<br> 
-Also **B32_Eval_Final**, **G14_Eval_Final**, were added, which are the codes for the OpenShape pre-trained models. <br>
+Also **B32_Eval_Final**, **G14_Eval_Final**, and **L14_Eval_Final**, were added, which are the codes for the OpenShape pre-trained models. <br>
 The pre-trained models are not present due to their size but can be downloaded from the OpenShape repository https://github.com/Colin97/OpenShape_code <br>
 The files that were used on Google Colab for the failure analysis and pre-trained models evaluation are also present as .ipynb files
 
