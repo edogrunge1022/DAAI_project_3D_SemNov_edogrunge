@@ -19,4 +19,8 @@ Also **B32_Eval_Final**, **G14_Eval_Final**, and **L14_Eval_Final**, were added,
 The pre-trained models are not present due to their size but can be downloaded from the OpenShape repository https://github.com/Colin97/OpenShape_code <br>
 The files that were used on Google Colab for the failure analysis and pre-trained models evaluation are also present as .ipynb files
 
+## Reminder!!
+
+Since all the codes were run on Google Colab with repository inside personal Google Drive for practicality, some paths have to be changed in order to make the codes work. The paths that save the figures inside /utils/ood_utils, but also the paths that address the pre-trained model inside the **B32_Eval_Final**, **G14_Eval_Final**, and **L14_Eval_Final** files.
+
 
